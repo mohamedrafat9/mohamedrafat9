@@ -66,20 +66,23 @@ My main areas of interest are:
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrafat9&layout=compact&hide_border=true&theme=default&langs_count=8" height="160"/> -->
 
 </div>
+
+---
+
 ## Connect
 
 <p align="left">
 
 <a href="mailto:raftmhmaa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/mohamed-raafat-ai/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://discord.com/users/710074915050749972">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 </p>
