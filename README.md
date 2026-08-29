@@ -48,7 +48,7 @@ My main areas of interest are:
 ### Tools & Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,cpp,cs" />
 </p>
 
 ---
