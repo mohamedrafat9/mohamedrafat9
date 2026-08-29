@@ -66,8 +66,6 @@ My main areas of interest are:
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrafat9&layout=compact&hide_border=true&theme=default&langs_count=8" height="160"/> -->
 
 </div>
----
-
 ## Connect
 
 <p align="left">
