@@ -57,16 +57,15 @@ My main areas of interest are:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedrafat9&show_icons=true&hide_border=true&theme=default&count_private=true" height="160"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mohamedrafat9&show_icons=true&hide_border=true&theme=default&count_private=true" height="160"/> -->
 
 <img src="https://streak-stats.demolab.com?user=mohamedrafat9&hide_border=true&theme=default" height="160"/>
 
-<br/>
+<!-- <br/> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrafat9&layout=compact&hide_border=true&theme=default&langs_count=8" height="160"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrafat9&layout=compact&hide_border=true&theme=default&langs_count=8" height="160"/> -->
 
 </div>
-
 ---
 
 ## Connect
