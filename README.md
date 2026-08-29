@@ -70,9 +70,12 @@ My main areas of interest are:
 
 <p align="left">
 
-<a href="mailto:[raftmhmaa@gmail.com](mailto:raftmhmaa@gmail.com)"> <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /> </a>
+<a href="mailto:raftmhmaa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
 
-<a href="https://www.linkedin.com/in/mohamed-raafat-ai/">   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/mohamed-raafat-ai/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://discord.com/users/710074915050749972">
@@ -80,3 +83,4 @@ My main areas of interest are:
 </a>
 
 </p>
+
