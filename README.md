@@ -61,7 +61,12 @@ My main areas of interest are:
 
 <!-- <img src="https://streak-stats.demolab.com?user=mohamedrafat9&hide_border=true&theme=default" height="160"/> -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohamedrafat9&theme=yellowdark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com?user=mohamedrafat9&theme=yellowdark&v=7"
+    alt="GitHub Streak"
+  />
+</a>
 
 <!-- <br/> -->
 
