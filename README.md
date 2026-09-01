@@ -59,7 +59,9 @@ My main areas of interest are:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=mohamedrafat9&show_icons=true&hide_border=true&theme=default&count_private=true" height="160"/> -->
 
-<img src="https://streak-stats.demolab.com?user=mohamedrafat9&hide_border=true&theme=default" height="160"/>
+<!-- <img src="https://streak-stats.demolab.com?user=mohamedrafat9&hide_border=true&theme=default" height="160"/> -->
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohamedrafat9&theme=yellowdark" alt="GitHub Streak" /></a>
 
 <!-- <br/> -->
 
